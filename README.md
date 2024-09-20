@@ -1,5 +1,4 @@
-```markdown
-# Pipeline de Transcrição de Áudio
+# PyWhisper 
 
 ## Índice
 
@@ -207,4 +206,3 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 - [Librosa](https://librosa.org/)
 - [TQDM](https://github.com/tqdm/tqdm)
 - [PyTorch](https://pytorch.org/)
-```
