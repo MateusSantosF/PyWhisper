@@ -20,7 +20,7 @@
 
 ## Visão Geral
 
-O **PyWhisper** é uma ferramenta baseada em Python desenvolvida para transcrever arquivos de áudio em texto utilizando o modelo [Whisper](https://github.com/openai/whisper) da Hugging Face. Ele suporta processamento paralelo para lidar de forma eficiente com múltiplos chunks e arquivos de áudio simultaneamente, aproveitando multi-threading para otimizar o desempenho.
+O **PyWhisper** é uma ferramenta baseada em Python desenvolvida para transcrever arquivos de áudio em texto utilizando o modelo [Whisper](https://github.com/openai/whisper) da OpenAI. Ele suporta processamento paralelo para lidar de forma eficiente com múltiplos chunks e arquivos de áudio simultaneamente, aproveitando multi-threading para otimizar o desempenho.
 
 ## Recursos
 
